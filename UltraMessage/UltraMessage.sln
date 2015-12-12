@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkypeProxy", "SkypeProxy\Sk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwork", "SocialNetwork\SocialNetwork.csproj", "{E2DD940B-C02D-42EC-8EC4-F4F36F1BA7BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStorage", "DataStorage\DataStorage\DataStorage.csproj", "{0DF838FC-66E8-4578-8232-853BC81673CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E2DD940B-C02D-42EC-8EC4-F4F36F1BA7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2DD940B-C02D-42EC-8EC4-F4F36F1BA7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2DD940B-C02D-42EC-8EC4-F4F36F1BA7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DF838FC-66E8-4578-8232-853BC81673CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF838FC-66E8-4578-8232-853BC81673CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF838FC-66E8-4578-8232-853BC81673CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF838FC-66E8-4578-8232-853BC81673CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

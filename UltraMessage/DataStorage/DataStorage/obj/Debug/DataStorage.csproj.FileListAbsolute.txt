@@ -1,0 +1,13 @@
+c:\users\igor\documents\visual studio 2013\Projects\DataStorage\DataStorage\bin\Debug\DataStorage.dll
+c:\users\igor\documents\visual studio 2013\Projects\DataStorage\DataStorage\bin\Debug\DataStorage.pdb
+c:\users\igor\documents\visual studio 2013\Projects\DataStorage\DataStorage\bin\Debug\Newtonsoft.Json.dll
+c:\users\igor\documents\visual studio 2013\Projects\DataStorage\DataStorage\bin\Debug\Newtonsoft.Json.xml
+c:\users\igor\documents\visual studio 2013\Projects\DataStorage\DataStorage\obj\Debug\DataStorage.dll
+c:\users\igor\documents\visual studio 2013\Projects\DataStorage\DataStorage\obj\Debug\DataStorage.pdb
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\DataStorage\DataStorage\bin\Debug\DataStorage.dll
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\DataStorage\DataStorage\bin\Debug\DataStorage.pdb
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\DataStorage\DataStorage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\DataStorage\DataStorage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\DataStorage\DataStorage\obj\Debug\DataStorage.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\DataStorage\DataStorage\obj\Debug\DataStorage.dll
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\DataStorage\DataStorage\obj\Debug\DataStorage.pdb
