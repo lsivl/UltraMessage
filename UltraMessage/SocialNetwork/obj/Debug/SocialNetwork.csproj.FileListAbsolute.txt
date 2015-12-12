@@ -1,0 +1,24 @@
+c:\users\igor\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Debug\SocialNetwork.dll
+c:\users\igor\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Debug\SocialNetwork.pdb
+c:\users\igor\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Debug\HtmlAgilityPack.dll
+c:\users\igor\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Debug\Newtonsoft.Json.dll
+c:\users\igor\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Debug\VkNet.dll
+c:\users\igor\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Debug\HtmlAgilityPack.pdb
+c:\users\igor\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Debug\HtmlAgilityPack.xml
+c:\users\igor\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Debug\Newtonsoft.Json.xml
+c:\users\igor\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Debug\VkNet.pdb
+c:\users\igor\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\bin\Debug\VkNet.xml
+c:\users\igor\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.dll
+c:\users\igor\documents\visual studio 2013\Projects\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.pdb
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SocialNetwork\bin\Debug\SocialNetwork.dll
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SocialNetwork\bin\Debug\SocialNetwork.pdb
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SocialNetwork\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SocialNetwork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SocialNetwork\bin\Debug\VkNet.dll
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SocialNetwork\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SocialNetwork\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SocialNetwork\bin\Debug\VkNet.pdb
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SocialNetwork\bin\Debug\VkNet.xml
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SocialNetwork\obj\Debug\SocialNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SocialNetwork\obj\Debug\SocialNetwork.dll
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SocialNetwork\obj\Debug\SocialNetwork.pdb

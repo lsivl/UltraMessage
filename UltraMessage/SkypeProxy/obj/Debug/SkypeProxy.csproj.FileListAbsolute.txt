@@ -5,3 +5,10 @@ D:\Projects\Proffstore\FaceBookProxy\SkypeProxy\obj\Debug\Interop.SKYPE4COMLib.d
 D:\Projects\Proffstore\FaceBookProxy\SkypeProxy\obj\Debug\SkypeProxy.csproj.ResolveComReference.cache
 D:\Projects\Proffstore\FaceBookProxy\SkypeProxy\obj\Debug\SkypeProxy.dll
 D:\Projects\Proffstore\FaceBookProxy\SkypeProxy\obj\Debug\SkypeProxy.pdb
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SkypeProxy\bin\Debug\SkypeProxy.dll
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SkypeProxy\bin\Debug\SkypeProxy.pdb
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SkypeProxy\obj\Debug\SkypeProxy.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SkypeProxy\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SkypeProxy\obj\Debug\SkypeProxy.csproj.ResolveComReference.cache
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SkypeProxy\obj\Debug\SkypeProxy.dll
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\SkypeProxy\obj\Debug\SkypeProxy.pdb

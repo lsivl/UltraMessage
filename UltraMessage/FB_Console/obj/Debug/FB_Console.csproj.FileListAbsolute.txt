@@ -12,3 +12,17 @@ D:\Projects\Proffstore\FaceBookProxy\FB_Console\bin\Debug\Newtonsoft.Json.dll
 D:\Projects\Proffstore\FaceBookProxy\FB_Console\bin\Debug\Newtonsoft.Json.xml
 D:\Projects\Proffstore\FaceBookProxy\FB_Console\bin\Debug\SkypeProxy.dll
 D:\Projects\Proffstore\FaceBookProxy\FB_Console\bin\Debug\SkypeProxy.pdb
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\FB_Console\bin\Debug\FB_Console.exe.config
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\FB_Console\obj\Debug\FB_Console.exe
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\FB_Console\obj\Debug\FB_Console.pdb
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\FB_Console\bin\Debug\FB_Console.exe
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\FB_Console\bin\Debug\FB_Console.pdb
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\FB_Console\bin\Debug\FaceBookProxy.dll
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\FB_Console\bin\Debug\SkypeProxy.dll
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\FB_Console\bin\Debug\Facebook.dll
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\FB_Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\FB_Console\bin\Debug\FaceBookProxy.pdb
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\FB_Console\bin\Debug\SkypeProxy.pdb
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\FB_Console\bin\Debug\Facebook.xml
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\FB_Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Igor\Documents\GitHub\UltraMessage\UltraMessage\FB_Console\obj\Debug\FB_Console.csprojResolveAssemblyReference.cache
