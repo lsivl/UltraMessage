@@ -1,0 +1,14 @@
+D:\Projects\Proffstore\FaceBookProxy\FB_Console\bin\Debug\FB_Console.exe.config
+D:\Projects\Proffstore\FaceBookProxy\FB_Console\bin\Debug\FB_Console.exe
+D:\Projects\Proffstore\FaceBookProxy\FB_Console\bin\Debug\FB_Console.pdb
+D:\Projects\Proffstore\FaceBookProxy\FB_Console\obj\Debug\FB_Console.csprojResolveAssemblyReference.cache
+D:\Projects\Proffstore\FaceBookProxy\FB_Console\obj\Debug\FB_Console.exe
+D:\Projects\Proffstore\FaceBookProxy\FB_Console\obj\Debug\FB_Console.pdb
+D:\Projects\Proffstore\FaceBookProxy\FB_Console\bin\Debug\FaceBookProxy.dll
+D:\Projects\Proffstore\FaceBookProxy\FB_Console\bin\Debug\FaceBookProxy.pdb
+D:\Projects\Proffstore\FaceBookProxy\FB_Console\bin\Debug\Facebook.dll
+D:\Projects\Proffstore\FaceBookProxy\FB_Console\bin\Debug\Facebook.xml
+D:\Projects\Proffstore\FaceBookProxy\FB_Console\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Proffstore\FaceBookProxy\FB_Console\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Proffstore\FaceBookProxy\FB_Console\bin\Debug\SkypeProxy.dll
+D:\Projects\Proffstore\FaceBookProxy\FB_Console\bin\Debug\SkypeProxy.pdb

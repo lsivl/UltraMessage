@@ -1,0 +1,7 @@
+D:\Projects\Proffstore\FaceBookProxy\SkypeProxy\bin\Debug\SkypeProxy.dll
+D:\Projects\Proffstore\FaceBookProxy\SkypeProxy\bin\Debug\SkypeProxy.pdb
+D:\Projects\Proffstore\FaceBookProxy\SkypeProxy\obj\Debug\SkypeProxy.csprojResolveAssemblyReference.cache
+D:\Projects\Proffstore\FaceBookProxy\SkypeProxy\obj\Debug\Interop.SKYPE4COMLib.dll
+D:\Projects\Proffstore\FaceBookProxy\SkypeProxy\obj\Debug\SkypeProxy.csproj.ResolveComReference.cache
+D:\Projects\Proffstore\FaceBookProxy\SkypeProxy\obj\Debug\SkypeProxy.dll
+D:\Projects\Proffstore\FaceBookProxy\SkypeProxy\obj\Debug\SkypeProxy.pdb

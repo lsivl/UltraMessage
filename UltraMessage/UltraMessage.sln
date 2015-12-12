@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceBookProxy", "FaceBookProxy\FaceBookProxy.csproj", "{3D467659-16F6-4D7D-948B-83CCCA30C8A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FB_Console", "FB_Console\FB_Console.csproj", "{492417A3-04BF-438A-A0BC-77BC256835E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkypeProxy", "SkypeProxy\SkypeProxy.csproj", "{F36B5A5E-D4CC-4966-94B5-8C9C3D7133FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D467659-16F6-4D7D-948B-83CCCA30C8A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D467659-16F6-4D7D-948B-83CCCA30C8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D467659-16F6-4D7D-948B-83CCCA30C8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D467659-16F6-4D7D-948B-83CCCA30C8A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492417A3-04BF-438A-A0BC-77BC256835E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492417A3-04BF-438A-A0BC-77BC256835E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492417A3-04BF-438A-A0BC-77BC256835E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492417A3-04BF-438A-A0BC-77BC256835E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F36B5A5E-D4CC-4966-94B5-8C9C3D7133FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36B5A5E-D4CC-4966-94B5-8C9C3D7133FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36B5A5E-D4CC-4966-94B5-8C9C3D7133FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36B5A5E-D4CC-4966-94B5-8C9C3D7133FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

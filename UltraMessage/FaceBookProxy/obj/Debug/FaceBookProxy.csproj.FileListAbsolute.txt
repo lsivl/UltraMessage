@@ -1,0 +1,9 @@
+D:\Projects\Proffstore\FaceBookProxy\FaceBookProxy\bin\Debug\FaceBookProxy.dll
+D:\Projects\Proffstore\FaceBookProxy\FaceBookProxy\bin\Debug\FaceBookProxy.pdb
+D:\Projects\Proffstore\FaceBookProxy\FaceBookProxy\obj\Debug\FaceBookProxy.csprojResolveAssemblyReference.cache
+D:\Projects\Proffstore\FaceBookProxy\FaceBookProxy\obj\Debug\FaceBookProxy.dll
+D:\Projects\Proffstore\FaceBookProxy\FaceBookProxy\obj\Debug\FaceBookProxy.pdb
+D:\Projects\Proffstore\FaceBookProxy\FaceBookProxy\bin\Debug\Facebook.dll
+D:\Projects\Proffstore\FaceBookProxy\FaceBookProxy\bin\Debug\Facebook.xml
+D:\Projects\Proffstore\FaceBookProxy\FaceBookProxy\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Proffstore\FaceBookProxy\FaceBookProxy\bin\Debug\Newtonsoft.Json.xml
