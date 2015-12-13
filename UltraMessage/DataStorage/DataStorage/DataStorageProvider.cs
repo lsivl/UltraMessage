@@ -3,12 +3,28 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DataStorage.Entity;
 using Newtonsoft.Json;
 
 namespace DataStorage
 {
    public static class DataStorageProvider
     {
+       const string _contactUrl = @"D:\contacts.txt";
+       const string _credentialUrl = @"D:\credentials.txt";
+       public static bool CreateOrUpdateCredentials(Credentials credential)
+       {
+           try
+           {
+               SaveCredentials(credential);
+               return true;
+           }
+           catch
+           {
+               return false;
+           }
+       }
+
        public static bool CreateOrUpdateContact(Contact contact)
        {
            try
@@ -44,6 +60,20 @@ namespace DataStorage
            catch { return false; }
        }
 
+       public static Credentials GetCredentials()
+       {
+           try
+           {
+               var json = System.IO.File.ReadAllText(_credentialUrl);
+
+               return JsonConvert.DeserializeObject<Credentials>(json);
+           }
+           catch
+           {
+               return new Credentials();
+           }
+       }
+
        private static List<Contact> DeleteContactFromList(Guid Id, List<Contact> contactList)
        {
            var oldContact = contactList.Where(p => p.Id == Id).FirstOrDefault();
@@ -57,7 +87,7 @@ namespace DataStorage
        {
            try
            {
-               var json = System.IO.File.ReadAllText(@"D:\path.txt");
+               var json = System.IO.File.ReadAllText(_contactUrl);
 
                return JsonConvert.DeserializeObject<List<Contact>>(json);
            }
@@ -71,7 +101,14 @@ namespace DataStorage
        {
             var json = JsonConvert.SerializeObject(contactList);
 
-            System.IO.File.WriteAllText(@"D:\path.txt", json);
+            System.IO.File.WriteAllText(_contactUrl, json);
+       }
+
+       private static void SaveCredentials(Credentials credentials)
+       {
+           var json = JsonConvert.SerializeObject(credentials);
+
+           System.IO.File.WriteAllText(_credentialUrl, json);
        }
     }
 }

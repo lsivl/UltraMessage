@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataStorageProvider.cs" />
+    <Compile Include="Entity\Credentials.cs" />
     <Compile Include="Entity\VkUser.cs" />
     <Compile Include="Entity\FacebookUser.cs" />
     <Compile Include="Entity\Contact.cs" />
